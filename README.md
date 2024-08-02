@@ -6,7 +6,7 @@ hihee
 
 heeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 
-* 🌍  I'm based in thailand
+* 🌍  I'm based in my wold
 * ✉️  You can contact me at [kridsadabunta@gmail.com](mailto:kridsadabunta@gmail.com)
 * ⚡  sทc no.1
 
