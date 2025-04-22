@@ -4,8 +4,6 @@
 
 ### _Turning ideas into reality through code_
 
-<img src="https://files.oaiusercontent.com/file-U659BwSVebEN7aMLfBS0bKrO?se=2024-08-02T09%3A51%3A08Z&sp=r&sv=2023-11-03&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Da47b2684-4158-45cc-8917-d01c1d4ed9fd.webp&sig=sJJWEvp9KoBKTG8jPb4ybYYPcGyDkTjaPoWS1YW5%2Bus%3D" width="300" />
-
 [![GitHub Followers](https://img.shields.io/github/followers/kridsadaa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/kridsadaa)
 [![Contact Me](https://img.shields.io/badge/-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kridsadabunta@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-6366F1?style=for-the-badge&logo=react&logoColor=white)](https://github.com/kridsadaa)
@@ -132,14 +130,8 @@ Backend implementation for manufacturing process management
 
 ## 💼 Professional Experience
 
-### Senior Developer | Company Name
-*Jan 2023 - Present*
-- Leading development of enterprise web applications
-- Managing team of 5 developers
-- Implementing CI/CD pipelines and best practices
-
 ### Full Stack Developer | Company Name
-*Mar 2020 - Dec 2022*
+*Aug 2024 - Present*
 - Developed and maintained client-facing applications
 - Created RESTful APIs and microservices
 - Optimized database performance and queries
