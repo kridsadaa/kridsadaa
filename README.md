@@ -132,7 +132,7 @@ Backend implementation for manufacturing process management
 ## 💼 Professional Experience
 
 ### Full Stack Developer | SNC FORMER PUBLIC COMPANY LIMITED
-*Aug 2024 - Present*
+*Jul 2024 - Present*
 - Developed and maintained client-facing applications
 - Created RESTful APIs and microservices
 - Optimized database performance and queries
