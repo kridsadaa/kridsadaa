@@ -82,20 +82,20 @@
 
 ## 🏆 Featured Projects
 
-### 🌐 [Project Name 1](https://github.com/kridsadaa)
-Modern web application built with React & Node.js
-- Features: User authentication, real-time updates, responsive design
-- Technologies: React, Node.js, Express, MongoDB
+### 🌐 [QR Code Label Verification System](https://github.com/kridsadaa)
+Full-stack web application for verifying label accuracy through QR codes
+- Features: Real-time verification, QR code scanning, data validation, user authentication
+- Technologies: React, Node.js, Express, MongoDB, QR code libraries
 
-### 🤖 [Project Name 2](https://github.com/kridsadaa)
-Machine learning project for image recognition
-- Features: Custom model training, high accuracy predictions
-- Technologies: Python, TensorFlow, PyTorch
+### 🤖 [Warehouse Management System](https://github.com/kridsadaa)
+Comprehensive full-stack solution for warehouse inventory management
+- Features: Inventory tracking, order processing, reporting dashboard, role-based access
+- Technologies: React, Redux, Node.js, PostgreSQL, Material UI
 
-### 🔧 [Project Name 3](https://github.com/kridsadaa)
-IoT solution for smart home automation
-- Features: Remote control, sensor monitoring, automation rules
-- Technologies: Arduino, Raspberry Pi, MQTT, Node.js
+### 🔧 [Manufacturing Execution System (MES)](https://github.com/kridsadaa)
+Backend implementation for manufacturing process management
+- Features: Production tracking, quality control, real-time monitoring, workflow automation
+- Technologies: NestJS, TypeScript, PostgreSQL, RESTful APIs, WebSockets
 
 </div>
 
@@ -132,8 +132,14 @@ IoT solution for smart home automation
 
 ## 💼 Professional Experience
 
-### Full Stack Developer | SNC FORMER Co., Ltd.
-*Aug 2024 - Preset*
+### Senior Developer | Company Name
+*Jan 2023 - Present*
+- Leading development of enterprise web applications
+- Managing team of 5 developers
+- Implementing CI/CD pipelines and best practices
+
+### Full Stack Developer | Company Name
+*Mar 2020 - Dec 2022*
 - Developed and maintained client-facing applications
 - Created RESTful APIs and microservices
 - Optimized database performance and queries
