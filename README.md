@@ -9,26 +9,26 @@ I am a **Software Engineer** with a strong foundation in **Mechatronics**. My pa
 ### 🛠️ Tech Stack & Arsenal
 
 **Backend & Core:**
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://docs.nestjs.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/docs/)
 
 **AI & Computer Vision:**
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/Edge_AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+[![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)](https://docs.ultralytics.com/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://docs.opencv.org/)
+[![NVIDIA](https://img.shields.io/badge/Edge_AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/embedded-computing)
 
 **Industrial IoT & Connectivity:**
-![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
-![Modbus](https://img.shields.io/badge/Modbus-000000?style=for-the-badge&logo=modbus&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP_ERP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![IoT](https://img.shields.io/badge/IIoT-FF9900?style=for-the-badge&logo=iot&logoColor=white)
+[![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)](https://mqtt.org/documentation/)
+[![Modbus](https://img.shields.io/badge/Modbus-000000?style=for-the-badge&logo=modbus&logoColor=white)](https://www.modbus.org/specs.php)
+[![SAP](https://img.shields.io/badge/SAP_ERP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://help.sap.com/docs/)
+[![IoT](https://img.shields.io/badge/IIoT-FF9900?style=for-the-badge&logo=iot&logoColor=white)](https://en.wikipedia.org/wiki/Industrial_Internet_of_things)
 
 **Database & DevOps:**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
 
 ---
 
