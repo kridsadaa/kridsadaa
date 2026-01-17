@@ -37,5 +37,3 @@ Concurrency Control: Implemented PostgreSQL Advisory Locks for atomic serial num
 The Disciplined Sage: A fitness-driven Trail Runner (25km finisher) and Acting Sub-Lieutenant (ROTC Class 5). I believe that physical discipline fuels mental clarity and engineering precision.
 
 Old Soul & Neo-Heritage: Inspired by history and archaeology. I apply the "Kintsugi" philosophy—finding strength in resilience and perfection in thoughtful system design.
-
-📫 Connect with me
