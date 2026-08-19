@@ -1,6 +1,6 @@
 # Hi there, I'm Kridsada 👋
 Industrial AI & Robotics Integrator | Enterprise MES Architect | Backend Specialist
-I am a Systems Architect and Full-Stack Integrator with a B.Eng. in Mechatronics (1st Class Honors). I specialize in bridging the gap between legacy industrial hardware and modern AI intelligence. My expertise lies in modernizing robotics with LLMs, architecting mission-critical MES with deep SAP integration, and building high-performance Smart Factory ecosystems.
+I am a Systems Architect and Full-Stack Integrator with a B.Eng. in Mechatronics. I specialize in bridging the gap between legacy industrial hardware and modern AI intelligence. My expertise lies in modernizing robotics with LLMs, architecting mission-critical MES with deep SAP integration, and building high-performance Smart Factory ecosystems.
 
 🛠️ Tech Stack & Arsenal
 <h3>Modern AI & Robotics:</h3> <p> <img src="https://img.shields.io/badge/LLM_Integration-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" /> <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented-FF4500?style=for-the-badge&logo=googlesheets&logoColor=white" alt="RAG" /> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Whisper_AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" /> </p>
