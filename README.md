@@ -1,34 +1,68 @@
-# Hi there, I'm Kridsada 👋
-Industrial AI & Robotics Integrator | Enterprise MES Architect | Backend Specialist
-I am a Systems Architect and Full-Stack Integrator with a B.Eng. in Mechatronics. I specialize in bridging the gap between legacy industrial hardware and modern AI intelligence. My expertise lies in modernizing robotics with LLMs, architecting mission-critical MES with deep SAP integration, and building high-performance Smart Factory ecosystems.
+# Kridsada Bunta
 
-🛠️ Tech Stack & Arsenal
-<h3>Modern AI & Robotics:</h3> <p> <img src="https://img.shields.io/badge/LLM_Integration-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" /> <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented-FF4500?style=for-the-badge&logo=googlesheets&logoColor=white" alt="RAG" /> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Whisper_AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" /> </p>
+Software Engineer at SNC Former PCL — Rayong, Thailand.
+B.Eng. in Mechatronics Engineering, Suranaree University of Technology.
 
-<h3>Backend & Enterprise:</h3> <p> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" /> <img src="https://img.shields.io/badge/Python_3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/SAP_Integration-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> </p>
+I work on manufacturing systems — MES, production planning, ERP integration, and
+IIoT. Most of what I do sits between factory hardware and backend software, so I
+spend my time on data pipelines, real-time sync, and making shop-floor systems
+talk to each other.
 
-🚀 High-Impact Projects
-🤖 [Enterprise AI-Robotics Modernization]
-Modernizing legacy robots with LLMs & Real-time Audio Pipelines.
+## Tech I use
 
-Cognitive Layer Decoupling: Bypassed hardware obsolescence by moving the AI brain to a high-performance server using WebSockets.
+- **Backend** — NestJS, TypeScript, Python, FastAPI
+- **Data** — MongoDB, PostgreSQL, MSSQL
+- **Real-time & IIoT** — Socket.io, MQTT
+- **AI / CV** — LLM APIs, Whisper, YOLOv8, NVIDIA Jetson
 
-Hybrid Audio Pipeline: Implemented Audio DSP (Noise Gating, Hysteresis) and VAD for fluid human-robot interaction in noisy factory environments.
+## What I've worked on
 
-Context Retention: Built a persistent session management system using NestJS/MongoDB for long-term human-robot memory.
+Everything below is internal company work, so the code isn't public. Happy to
+talk through the design if you're interested.
 
-🏭 [Mission-Critical MES & SAP Integration]
-Digitizing the production lifecycle for a Public Company (SNC Former).
+**Production planning system (MES)**
 
-SAP Direct Sync: Engineered a real-time data pipeline with SAP ERP for BOM validation and production synchronization.
+- Backend for production planning built with NestJS and MongoDB, replacing an
+  Excel-based process.
+- Scheduling engine mapping material routings to work center capabilities, with
+  BOM calculation for stock sufficiency and lead-time offsetting.
+- Real-time "plan vs. actual" tracking over WebSockets, plus kiosk displays at
+  the machines.
+- Role-based access control and an abstract repository layer over the data model.
 
-Shift-Aware Logic: Developed complex algorithms to handle automated production dating and machine interlocking based on real-time sensor data.
+**SAP integration**
 
-Inventory Traceability: Designed a granular stock-tracking system (Location/Position/Lot) with high-performance Aggregation Pipelines.
+- Sync pipeline pulling purchase orders from SAP (MSSQL) into the MES.
+- Raw material validation against BOM before a job is allowed to start.
 
-📦 [Smart WMS with Digital Twin Interface]
-Full-stack Warehouse Management with Real-time Visualization.
+**Robot cognitive layer**
 
-Interactive Dashboard: Built a dynamic warehouse layout (Digital Twin) using React for real-time pallet tracking.
+- Moved the AI processing for Pepper robots off the robot onto an external
+  server, since the onboard hardware was too limited.
+- Audio pipeline in Python/FastAPI with voice activity detection and noise
+  gating, tuned for a noisy factory floor.
+- Session storage in NestJS/MongoDB so conversations keep context.
 
-Concurrency Control: Implemented PostgreSQL Advisory Locks for atomic serial number generation in high-volume environments.
+**Warehouse management**
+
+- React dashboard rendering the warehouse layout for pallet tracking.
+- Stock tracking down to location / position / lot.
+- PostgreSQL advisory locks for serial number generation under concurrent writes.
+
+**IIoT & vision**
+
+- YOLOv8 parts counting in a paint shop, with the output fed into IIoT sensor
+  data.
+- Defect detection running on Jetson Nano at the edge instead of in the cloud.
+- Refrigerant usage tracking over MQTT.
+- Machine vision guiding ABB robots for pick & place.
+
+## Repos here
+
+The public repos on this account are mostly side projects and experiments, not
+the work above.
+
+## Contact
+
+- LinkedIn — [kridsada-bunta](https://www.linkedin.com/in/kridsada-bunta)
+- Email — kridsadabunta@gmail.com
